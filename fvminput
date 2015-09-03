@@ -1,0 +1,12 @@
+# Input file for FVM
+# Freestream values
+#	Pressure	Density		U	V
+82737.084	0.94347	875.971717	0.0			
+# Name of Gridfile
+bowshock.inp
+# CFL number
+0.9
+# Gamma
+1.4
+# Solution file name
+frames/bow
